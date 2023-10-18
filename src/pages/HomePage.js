@@ -1,6 +1,5 @@
 import React, { useCallback, useRef } from 'react';
 import { useEffect, useState } from 'react';
-import _ from 'lodash';
 
 import Loader from 'components/Loader';
 import Searchbar from '../components/Searchbar';
