@@ -1,17 +1,23 @@
 {
   "files": {
-    "main.css": "/tv-app/static/css/main.7acaea2f.css",
-    "main.js": "/tv-app/static/js/main.406b4db9.js",
-    "static/js/206.6d2297f9.chunk.js": "/tv-app/static/js/206.6d2297f9.chunk.js",
-    "static/js/683.a825daf6.chunk.js": "/tv-app/static/js/683.a825daf6.chunk.js",
+    "main.css": "/tv-app/static/css/main.a0d08200.css",
+    "main.js": "/tv-app/static/js/main.f5b87141.js",
+    "static/css/906.edde5cd3.chunk.css": "/tv-app/static/css/906.edde5cd3.chunk.css",
+    "static/js/906.ac16a452.chunk.js": "/tv-app/static/js/906.ac16a452.chunk.js",
+    "static/css/344.5be87aa3.chunk.css": "/tv-app/static/css/344.5be87aa3.chunk.css",
+    "static/js/344.95d6afb6.chunk.js": "/tv-app/static/js/344.95d6afb6.chunk.js",
+    "static/js/144.a7e782f7.chunk.js": "/tv-app/static/js/144.a7e782f7.chunk.js",
     "index.html": "/tv-app/index.html",
-    "main.7acaea2f.css.map": "/tv-app/static/css/main.7acaea2f.css.map",
-    "main.406b4db9.js.map": "/tv-app/static/js/main.406b4db9.js.map",
-    "206.6d2297f9.chunk.js.map": "/tv-app/static/js/206.6d2297f9.chunk.js.map",
-    "683.a825daf6.chunk.js.map": "/tv-app/static/js/683.a825daf6.chunk.js.map"
+    "main.a0d08200.css.map": "/tv-app/static/css/main.a0d08200.css.map",
+    "main.f5b87141.js.map": "/tv-app/static/js/main.f5b87141.js.map",
+    "906.edde5cd3.chunk.css.map": "/tv-app/static/css/906.edde5cd3.chunk.css.map",
+    "906.ac16a452.chunk.js.map": "/tv-app/static/js/906.ac16a452.chunk.js.map",
+    "344.5be87aa3.chunk.css.map": "/tv-app/static/css/344.5be87aa3.chunk.css.map",
+    "344.95d6afb6.chunk.js.map": "/tv-app/static/js/344.95d6afb6.chunk.js.map",
+    "144.a7e782f7.chunk.js.map": "/tv-app/static/js/144.a7e782f7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.406b4db9.js"
+    "static/css/main.a0d08200.css",
+    "static/js/main.f5b87141.js"
   ]
 }
