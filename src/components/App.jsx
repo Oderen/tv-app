@@ -3,7 +3,7 @@ import { Routes, Route } from 'react-router-dom';
 import Layout from './Layout';
 
 const HomePage = lazy(() => import('../pages/HomePage'));
-const ShowDetails = lazy(() => import('../pages/ShowDetails'));
+const ShowDetails = lazy(() => import('../pages/ShowDetails/ShowDetails'));
 
 export const App = () => {
   return (

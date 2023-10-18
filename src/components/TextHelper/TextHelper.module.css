@@ -1,0 +1,14 @@
+.shows {
+  width: 100%;
+  height: 80vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.helpers {
+  color: orange;
+  font-size: 30px;
+  font-weight: 700;
+}

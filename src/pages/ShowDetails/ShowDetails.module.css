@@ -1,0 +1,53 @@
+.goBackLink {
+  display: block;
+  width: 63px;
+
+  margin-bottom: 20px;
+  padding: 8px;
+  border-radius: 8px;
+
+  text-decoration: none;
+  font-weight: 700;
+  color: white;
+  border: 1px solid white;
+
+  cursor: pointer;
+}
+
+.goBackLink:hover,
+.goBackLink:focus {
+  color: orange;
+  background-color: white;
+}
+
+.info {
+  width: 110%;
+  margin-left: 25px;
+}
+
+.info__link {
+  margin-left: 10px;
+  font-weight: normal;
+  color: white;
+}
+
+.info__link:hover,
+.info__link:focus {
+  color: rgb(216, 154, 39);
+}
+
+.info__block {
+  display: flex;
+  flex-direction: column;
+}
+
+.image-container {
+  width: 400px;
+  height: 350px;
+  border-radius: 20px;
+  outline: 3px solid orange;
+}
+
+.image {
+  border-radius: 20px;
+}
